@@ -16,4 +16,13 @@ All submissions to the github repo will be automatically uploaded for
 grading once the due date is passed. Submit a link to your repository on
 Canvas (only one submission per team) to signal to the instructors that
 you are done with your submission.
+
 This is a line from R studio
+
+12.1 Already Completed. (Pre Req) 12.2 Created new Repo Successfully. At
+first had trouble getting more than one person on a team but was quickly
+resolved. 12.3 Easy to follow directions, linked successfully. 12.4
+Having some problems with commiting the file. Running into the error
+message “Author identity unknown.” 12.5 Simply back of the commit screen
+and press the push button 12.6 Go back to github to see commits that
+were made
