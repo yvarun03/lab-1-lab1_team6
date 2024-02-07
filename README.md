@@ -26,3 +26,11 @@ Having some problems with commiting the file. Running into the error
 message “Author identity unknown.” 12.5 Simply back of the commit screen
 and press the push button 12.6 Go back to github to see commits that
 were made
+
+Lab 1 Experiences: 12.1: Done previously 12.2: Done Previously 12.3:
+Followed the steps given to link the RStudio with the GitHub repository
+12.4: 12.4 Having some problems with commiting the file. Running into
+the error message “Author identity unknown.”. We then had to update our
+username and email on the RStudio for GitHub 12.5: We closed out of the
+commit section and pushed to the main GitHub 12.6: Go back and refresh
+GitHub to make sure everything worked
