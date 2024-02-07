@@ -17,3 +17,9 @@ Include your answers in this document (Rmd file). Make sure that it knits proper
 
 All submissions to the github repo will be automatically uploaded for grading once the due date is passed.
 Submit a link to your repository on Canvas (only one submission per team) to signal to the instructors that you are done with your submission.
+
+Lab 1 Experiences:
+12.1: Done previously
+12.2: Done Previously
+12.3: Followed the steps given to link the RStudio with the GitHub repository
+12.4: Opened
